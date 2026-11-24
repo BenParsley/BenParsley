@@ -1,6 +1,12 @@
 ![Header Image](https://github.com/BenParsley/BenParsley/blob/main/banner.png)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=BenParsley&layout=compact&hide_title=true&langs_count=4&disable_animations=true&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=BenParsley&layout=compact&hide_title=true&langs_count=4&disable_animations=true&theme=dark_github)
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=BenParsley&layout=compact&hide_title=true&langs_count=4&disable_animations=true&theme=dark_github">
+  <img
+    width="100%"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=BenParsley&layout=compact&hide_title=true&langs_count=4&disable_animations=true&theme=dark_github&card_width=900"
+    alt="Top Languages"
+  />
+</a>
 
 <a href="https://github.com/BenParsley/cryptographic-failure"><img width="355" src="https://github-stats-extended.vercel.app/api/pin?username=BenParsley&repo=BenParsley%2Fcryptographic-failure&description_lines_count=2&theme=dark_github_repocard" alt="cryptographic-failure" /></a><a href="https://github.com/BenParsley/Gemini-Folders-and-Protected-Chats"><img width="355" src="https://github-stats-extended.vercel.app/api/pin?username=BenParsley&repo=BenParsley%2FGemini-Folders-and-Protected-Chats&description_lines_count=2&theme=dark_github_repocard" alt="Gemini-Folders-and-Protected-Chats" /></a>
 
