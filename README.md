@@ -1,5 +1,3 @@
-![Header Image](https://github.com/BenParsley/BenParsley/blob/main/banner.png)
-![Header Image](https://github.com/BenParsley/BenParsley/blob/main/banner-2.png)
 ![Header Image](https://github.com/BenParsley/BenParsley/blob/main/banner3.png)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=BenParsley&layout=compact&hide_title=true&langs_count=4&disable_animations=true&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=BenParsley&layout=compact&hide_title=true&langs_count=4&disable_animations=true&theme=dark_github)
