@@ -5,7 +5,7 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/BenParsley/)](https://github.com/BenParsley/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:ben.parsley.business@gmail.com)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=BenParsley&layout=compact&langs_count=5&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=BenParsley&layout=compact&langs_count=5&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=BenParsley&layout=compact&hide_title=true&langs_count=4&disable_animations=true&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=BenParsley&layout=compact&hide_title=true&langs_count=4&disable_animations=true&theme=transparent)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=BenParsley&repo=BenParsley%2Fcryptographic-failure&description_lines_count=2&theme=dark_github_repocard)](https://github.com/BenParsley/cryptographic-failure)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=BenParsley&repo=BenParsley%2FGemini-Folders-and-Protected-Chats&description_lines_count=2&theme=dark_github_repocard)](https://github.com/BenParsley/Gemini-Folders-and-Protected-Chats)
