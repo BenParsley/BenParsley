@@ -6,3 +6,4 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:ben.parsley.business@gmail.com)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=BenParsley&layout=compact&langs_count=5&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=BenParsley&layout=compact&langs_count=5&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=BenParsley&repo=BenParsley%2FGemini-Folders-and-Protected-Chats&description_lines_count=1&disable_animations=false&theme=transparent)](https://github.com/BenParsley/Gemini-Folders-and-Protected-Chats)
