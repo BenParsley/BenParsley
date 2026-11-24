@@ -1,5 +1,6 @@
 ![Header Image](https://github.com/BenParsley/BenParsley/blob/main/banner.png)
-I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
+
+# I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=BenParsley&layout=compact&hide_title=true&langs_count=4&disable_animations=true&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=BenParsley&layout=compact&hide_title=true&langs_count=4&disable_animations=true&theme=dark_github)
 
