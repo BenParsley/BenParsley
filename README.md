@@ -40,11 +40,8 @@
 </p>
 
 <!-- Contact Badges -->
+<!-- Contact Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/ben-parsley/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ben.parsley.business@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <a href="https://www.linkedin.com/in/ben-parsley/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ben.parsley.business@gmail.com"><img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" /></a>
 </p>
