@@ -41,7 +41,7 @@
 
 <!-- Contact Badges -->
 <p align="center">
-  <a href="https://github.com/BenParsley/">
+  <a href="(https://www.linkedin.com/in/ben-parsley/)">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ben.parsley.business@gmail.com">
